@@ -5,8 +5,8 @@ The idea of this repository isn't to necessarily give you the answers to the int
 
 Hope you enjoy!!!
 
-Follow me on Instgram: @TayOnTech.io
+Follow me on Instgram: https://www.instagram.com/TayOnTech.io
 
-Follow me on Twitter: @TayOnTech
+Follow me on Twitter: https://www.twitter.com/TayOnTech
 
-Follow me on Tiktok: @TayOnTech
+Follow me on Tiktok: https://www.tiktok.com/@tayontech
