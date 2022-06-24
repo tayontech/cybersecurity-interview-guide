@@ -6,5 +6,7 @@ The idea of this repository isn't to necessarily give you the answers to the int
 Hope you enjoy!!!
 
 Follow me on Instgram: @TayOnTech.io
+
 Follow me on Twitter: @TayOnTech
+
 Follow me on Tiktok: @TayOnTech
