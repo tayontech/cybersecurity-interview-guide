@@ -5,7 +5,7 @@ The idea of this repository isn't to necessarily give you the answers to the int
 
 Some questions will be tricks questions. Some questions will be scenario based. Some will be straight forward. I will not provide the answers, but I will provide small tips, so that you are able full understand the answers vs memorizing the answers.
 
-If you have an questions or issues, utilise the [Issues](https://github.com/tayontech/cybersecurity-interview-guide/issues) tab.
+If you have an questions or issues, utilize the [Issues](https://github.com/tayontech/cybersecurity-interview-guide/issues) tab.
 
 Hope you enjoy!!!
 
