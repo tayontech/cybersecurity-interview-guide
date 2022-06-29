@@ -1,4 +1,6 @@
 # cybersecurity-interview-guide
+# (WORK IN PROGRESS. THERE WILL BE UPDATES THROUGHOUT THE WEEK)
+
 The purpose of this repository is to prepare you for your upcoming cybersecurity interview. I worked in the cybersecurity industry for 6 years as a full time employee and 8 years with the combination of internships and full time experience. I have completed many interviews, some with me receving an unfavorable outcome and some ending with me receiving an offer. (Mostly receiving an offer though😉)
 
 The idea of this repository isn't to necessarily give you the answers to the interview questions, but to guide you to understand the concepts of the questions how to answer them. The respository will consist of interview tips, interview styles, interview questions filtered into their perspective domain.
