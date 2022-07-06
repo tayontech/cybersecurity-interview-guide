@@ -2,7 +2,7 @@
 Intern/Entry level interviews aren't as difficult interviews compared to security engineers and tier 2/3 security analyst interviews. During these interviews, the hiring manager is looking to see if you understand basic network and security fundamentals. Questions asked in these interviews are typically straightforward with few scenario-based questions. During this stage in your career, it's extremely important that you showcase your willingness to learn. You will accomplish this by talking about how you are keeping up with cyber security news, homelabs you have built(don't worry, I'll create a repository for homelabs as well), and how you are contributing to the security community (this is a major bonus). 
 * Tell me about yourself. (This question is not meant for you to give your life story. This question is meant for you to give an overview of your career  geared towards cybersecurity, your educational background, why you chose cybersecurity, your passion for cybersecurity, etc.)
 * What steps would you take you secure a server? (This question is asked to see if you have a basic understanding of how to secure a server. This does not mean you will be administering servers, but it lets the interviewer know that you understand basic fundamentals of system hardening.)
-* What is the difference between UDP and TCP? (This is a straighforward question. Hint: One protocol is primariliy used in Video Streaming. The other protocol is used to send emails.)
+* What is the difference between UDP and TCP? (This is a straightforward question. Hint: One protocol is primariliy used in Video Streaming. The other protocol is used to send emails.)
 * What are the default ports for HTTP and for HTTPS? (Straight forward question. Requires basic port and protocol knowdledge.)
 * Explain the CIA Triad. (The CIA Triad is the backbone of cybersecurity. It's important to understand it.)
 * What is two-factor authentication? (Straight forward question. You don't need to know how to implement it, but understanding it full and knowing why you should use it is important.)
@@ -22,7 +22,8 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 
 ## Network Security Interview Questions
 * Which is more secure HTTPS, SSL, or TLS. (This is a trick question. Requires basic networking knowledge. Hint: What does HTTPS use to enrypt data?)
-* What is the importance of DNS monitoring? What are DNS attack methods? (Straight forward question. Intermediate networking knowledge. The interviewer is gauging your overall knowledge of DNS and how it can be expoloited)
+* What is the importance of DNS monitoring? What are DNS attack methods? (Straight forward question. Intermediate networking knowledge. The interviewer is gauging your overall knowledge of DNS and how it can be expoloited) 
+- Not sure if you want to use the phrase "straight forward" this often here. If the audience for the repo is mainly entry level folks, this won't all be straight forward for them. 
 
 ## Application Security
 When interviewing for cybersecurity positions, there won't be many application security questions unless you're applying for cloud, appsec, etc type roles. You still need to understand the fundamental concept of application security, although. 
