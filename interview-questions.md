@@ -12,7 +12,8 @@ Intern/Entry level interviews aren't as difficult interviews compared to securit
 * How does encryption and hashing differ? (Straight forward question. Basic knowledge of encryption. Hint: The CIA triad)
 * What are some important protocols and their respective ports? What are those protocols used for? (Straight forward question. Basic networking knowledge. Interviewer is looking to gauge your networking experience and how well you explain their purpose.)
 * Explain the differences between risk, vulnerability, and a threat. (The interviewer is looking for a clear and concise answer. Less words are more.)
-* 
+* What happens when you enter a site on google in your browser? (Test networking and protocol knowledge) 
+This is taking a concept that every internet user might take for granted, but that Security professionals should know in more detail about. 
 
 
 ## Scenario Based Questions
