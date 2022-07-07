@@ -12,7 +12,7 @@ The Action in a STAR answer reveals how the candidate approached that task, and 
 ### (R)esults
 This element of STAR should reveal the results of the situation. Did you get the expected results? Why or Why not? If not, why ?
 
-##Let's put this into a scenario.
+## Let's put this into a scenario.
 
 At this time you will want to tell a story without
 
