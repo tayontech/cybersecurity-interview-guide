@@ -14,7 +14,7 @@ This element of STAR should reveal the results of the situation. Did you get the
 
 ## Let's put this into a scenario.
 
-At this time you will want to tell a story without
+At this time you will want to tell a story, but you want to get straight to the point.
 
 Interviewer: Tell me about a time you were able to automate a process and what was the outcome.
 
