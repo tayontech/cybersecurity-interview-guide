@@ -19,6 +19,9 @@ This is taking a concept that every internet user might take for granted, but th
 ## Scenario Based Questions
 * You receive an alert for an incident, how would you investigate it? (There's no right or wrong answer to this situation. This is a vague question, in which you have to ask questions to gather information before deciding how you're going to answer the question. Having experience conduction investigations will help you with this, but not having experience isn't the end of the world. Think out loud of your solutions so that they can hear your thought process. Hearing your thought process is extremely important.)
 * A user reports that their computer is running slow and acting abnormal. You investigate it and notice that the computer has been making requests to an unknown IP address, what do you? (This question gauges your knowledge on attack methods and networking. Hint: DNS requests is  🔑 )
+* You get an email forwarded from leadership saying they're not sure of its phishing, where do you look to verify if the email is phishing or not?
+(This tests email security knowledge, link analysis, headers, etc.)
+
 * Can you tell me about a favorite threat detection that you have built? How did you build it? What problem did it solve? (This question may be geared towards security engineers and/or tier 3. This question will be to gauge the complexity of threat detections you have built, what data sources you have used, etc. It's also a time to show off your critical thinking skills on how & why you developed them. As well as how you were able to solve problems that the organization may or may not have known existed)
 
 ## Network Security Interview Questions
@@ -30,10 +33,11 @@ When interviewing for cybersecurity positions, there won't be many application s
 * What is the OWASP Top 10? (These are the most citical security risks to web applications)
 * Explain XSS and how can to prevent it? (XSS is apart of the Owasp Top 10)
 * Explain SQL Injection and how to prevent it? (SQL Injection is apart of the Owasp Top 10)
-* 
+* How would you prevent secrets from getting exposed in a codebase? (Tests knowledge around secure coding best practices and secrets management)
 
 
 ## Splunk/SIEM Interview Questions
 You will rarely have splunk specific interview questions, unless you're specifically interviewing for a splunk engineer, admin, etc. role. However, Splunk is a popular tool that many companies use for alerts, analysis, and monitoring. As a security analyst you will be using splunk or SIEM to conduct investigations.
 * Explain Splunk Architecture. (Interviewer is looking for you to explain each componenet of Splunk.)
-* 
+* What is the component of Splunk that does the searching? (Tests specific domain knowledge on the main Splunk components)
+* What is the difference using the NOT = and != in a Splunk query? (A little in the weeds but have been asked this before, interviewer looking for SPL command specifics)
